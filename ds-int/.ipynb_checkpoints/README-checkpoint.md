@@ -27,7 +27,7 @@ python >= 3
    
 4. Activate new environment
    ```sh
-   # Lunux/MacOS
+   # Linux/MacOS
    source env/bin/activate
    
    # Windows
