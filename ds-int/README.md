@@ -17,7 +17,7 @@ python >= 3
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/DanielSFlamarich/task-repo.git
    ```
    
 3. Create new environment 
